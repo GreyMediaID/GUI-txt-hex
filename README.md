@@ -6,4 +6,4 @@ code by: Bang Hans
 Greet: GreyMedia.ID
 
 # Preview
-![riview](https://github.com/GreyMediaID/GUI-txt-hex/blob/main/riview.png?raw=true)
+![riview](https://github.com/GreyMediaID/GUI-txt-hex/blob/main/preview.png?raw=true)
