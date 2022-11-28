@@ -1,0 +1,40 @@
+body{
+    background-color: #D6E4E5;
+}
+
+.card textarea{
+    display: block;
+    margin: auto;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.card h2{
+    font-family: 'Rubik Mono One', sans-serif;
+    text-align: center;
+    color: #EB6440;
+    text-shadow: 10px 5px 5px rgb(230, 192, 126);
+}
+.card h2:hover{
+    color: #ffffff;
+}
+
+.card input{
+    font-size: 10px;
+    font-family: 'Rubik Mono One', sans-serif;
+    width: 10em;
+    height: 2em;
+    color: #ffffff;
+    background-color: #EB6440;
+    border: 1px dotted #000000;
+}
+
+.card input:hover{
+    border: 2px solid #6D9886;
+}
+
+.footer-content p{
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Azeret Mono', monospace;
+}
